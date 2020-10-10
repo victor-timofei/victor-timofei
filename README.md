@@ -1,4 +1,10 @@
+<p align='center'>
+<a href="https://www.linkedin.com/in/victor-timofei/"><img class="social" style="height: 35px" src="https://www.vtimothy.com/img/linkedin.svg" alt="My linkedin page"></a>
+</p>
+
 ### Hi there 👋
+
+[![Victor's github stats](https://github-readme-stats.vercel.app/api?username=victor-timofei)](https://www.vtimothy.com)
 
 <!--
 **victor-timofei/victor-timofei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
