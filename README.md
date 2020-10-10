@@ -18,10 +18,11 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://www.vtimothy.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-timofei" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-timofei&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Victor's Top GitHub Languages" />
 </a>
-
-[![Victor's github stats](https://github-readme-stats.vercel.app/api?username=victor-timofei)](https://www.vtimothy.com)
+<a href="https://www.vtimothy.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=victor-timofei&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Victor's GitHub Stats" />
+</a>
 
 <!--
 **victor-timofei/victor-timofei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
