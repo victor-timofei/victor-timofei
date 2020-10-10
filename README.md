@@ -1,5 +1,4 @@
 <p align='center'>
-<a href="https://www.linkedin.com/in/victor-timofei/"><img class="social" style="height: 35px" src="https://www.vtimothy.com/img/linkedin.svg" alt="My linkedin page"></a>
 </p>
 
 ### Hi there 👋
