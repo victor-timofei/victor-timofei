@@ -20,6 +20,9 @@
 <a href="https://www.vtimothy.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=victor-timofei&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Victor's GitHub Stats" />
 </a>
+<a href="https://www.vtimothy.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-timofei&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Victor's Top GitHub Languages" />
+</a>
 
 <!--
 **victor-timofei/victor-timofei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
