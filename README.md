@@ -24,6 +24,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-timofei&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Victor's Top GitHub Languages" />
 </a>
 
+
+⚡ Fun fact: Minix is one of the most used Operating Systems, but barely anyone knows about it's existence 😢.
 <!--
 **victor-timofei/victor-timofei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
