@@ -27,7 +27,6 @@
 
 ![K8s captain](https://github.com/victor-timofei/k8s-captain-gopher/raw/master/linkedin-background.jpeg "K8s captain")
 
-⚡ Fun fact: Minix is one of the most used Operating Systems, but barely anyone knows about it's existence 😢.
 <!--
 **victor-timofei/victor-timofei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
