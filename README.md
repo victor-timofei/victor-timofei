@@ -19,10 +19,10 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://www.vtimothy.com">
-  <img align="center" src="https://github-readme-stats-chi-lake.vercel.app/api?username=victor-timofei&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=29BEB0&bg_color=1d1f21&hide_border" alt="Victor's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-chi-lake.vercel.app/api?username=victor-timofei&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=29BEB0&bg_color=DEG,ffafbd,2193b0&hide_border" alt="Victor's GitHub Stats" />
 </a>
 <a href="https://www.vtimothy.com">
-  <img align="center" src="https://github-readme-stats-chi-lake.vercel.app/api/top-langs/?username=victor-timofei&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border" alt="Victor's Top GitHub Languages" />
+  <img align="center" src="https://github-readme-stats-chi-lake.vercel.app/api/top-langs/?username=victor-timofei&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=DEG,ffafbd,2193b0&hide_border" alt="Victor's Top GitHub Languages" />
 </a>
 
 ![K8s captain](https://github.com/victor-timofei/k8s-captain-gopher/raw/master/linkedin-background.jpeg "K8s captain")
