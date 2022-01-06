@@ -30,6 +30,10 @@
 ![K8s captain](https://github.com/victor-timofei/k8s-captain-gopher/raw/master/linkedin-background.jpeg "K8s captain")
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#28](https://github.com/killer-sh/cks-course-environment/issues/28) in [killer-sh/cks-course-environment](https://github.com/killer-sh/cks-course-environment)
+2. 💪 Opened PR [#206](https://github.com/do-community/kubernetes-challenge/pull/206) in [do-community/kubernetes-challenge](https://github.com/do-community/kubernetes-challenge)
+3. 🗣 Commented on [#9](https://github.com/angeloc/htpdate/issues/9) in [angeloc/htpdate](https://github.com/angeloc/htpdate)
+<!--END_SECTION:activity-->
 
 <!--
 **victor-timofei/victor-timofei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
