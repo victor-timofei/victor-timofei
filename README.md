@@ -29,9 +29,7 @@
 
 ![K8s captain](https://github.com/victor-timofei/k8s-captain-gopher/raw/master/linkedin-background.jpeg "K8s captain")
 
-## 👥 Social
-![](https://img.shields.io/github/followers/victor-timofei?style=social)
-![](https://img.shields.io/twitter/follow/victortimofei?style=social)
+<!--START_SECTION:activity-->
 
 <!--
 **victor-timofei/victor-timofei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
