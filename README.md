@@ -28,7 +28,7 @@
 </a>
 
 ![K8s captain](https://github.com/victor-timofei/k8s-captain-gopher/raw/master/linkedin-background.jpeg "K8s captain")
-
+## ⚡ Recent Activity
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#28](https://github.com/killer-sh/cks-course-environment/issues/28) in [killer-sh/cks-course-environment](https://github.com/killer-sh/cks-course-environment)
 2. 💪 Opened PR [#206](https://github.com/do-community/kubernetes-challenge/pull/206) in [do-community/kubernetes-challenge](https://github.com/do-community/kubernetes-challenge)
