@@ -30,9 +30,9 @@
 ![K8s captain](https://github.com/victor-timofei/k8s-captain-gopher/raw/master/linkedin-background.jpeg "K8s captain")
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#28](https://github.com/killer-sh/cks-course-environment/issues/28) in [killer-sh/cks-course-environment](https://github.com/killer-sh/cks-course-environment)
-2. 💪 Opened PR [#206](https://github.com/do-community/kubernetes-challenge/pull/206) in [do-community/kubernetes-challenge](https://github.com/do-community/kubernetes-challenge)
-3. 🗣 Commented on [#9](https://github.com/angeloc/htpdate/issues/9) in [angeloc/htpdate](https://github.com/angeloc/htpdate)
+1. ❗️ Opened issue [#9236](https://github.com/docker/compose/issues/9236) in [docker/compose](https://github.com/docker/compose)
+2. ❗️ Opened issue [#28](https://github.com/killer-sh/cks-course-environment/issues/28) in [killer-sh/cks-course-environment](https://github.com/killer-sh/cks-course-environment)
+3. 💪 Opened PR [#206](https://github.com/do-community/kubernetes-challenge/pull/206) in [do-community/kubernetes-challenge](https://github.com/do-community/kubernetes-challenge)
 <!--END_SECTION:activity-->
 
 <!--
