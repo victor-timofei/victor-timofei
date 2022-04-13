@@ -30,9 +30,9 @@
 ![K8s captain](https://github.com/victor-timofei/k8s-captain-gopher/raw/master/linkedin-background.jpeg "K8s captain")
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9242](https://github.com/docker/compose/pull/9242) in [docker/compose](https://github.com/docker/compose)
-2. ❗️ Opened issue [#54](https://github.com/containerd/rust-extensions/issues/54) in [containerd/rust-extensions](https://github.com/containerd/rust-extensions)
-3. ❗️ Opened issue [#9236](https://github.com/docker/compose/issues/9236) in [docker/compose](https://github.com/docker/compose)
+1. ❗️ Opened issue [#285](https://github.com/kabinspace/AstroVim/issues/285) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+2. 💪 Opened PR [#9242](https://github.com/docker/compose/pull/9242) in [docker/compose](https://github.com/docker/compose)
+3. ❗️ Opened issue [#54](https://github.com/containerd/rust-extensions/issues/54) in [containerd/rust-extensions](https://github.com/containerd/rust-extensions)
 <!--END_SECTION:activity-->
 
 <!--
