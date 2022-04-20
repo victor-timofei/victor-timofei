@@ -30,9 +30,9 @@
 ![K8s captain](https://github.com/victor-timofei/k8s-captain-gopher/raw/master/linkedin-background.jpeg "K8s captain")
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#285](https://github.com/kabinspace/AstroVim/issues/285) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-2. 🗣 Commented on [#285](https://github.com/kabinspace/AstroVim/issues/285) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-3. ❗️ Opened issue [#285](https://github.com/kabinspace/AstroVim/issues/285) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+1. 💪 Opened PR [#461](https://github.com/openshift-helm-charts/charts/pull/461) in [openshift-helm-charts/charts](https://github.com/openshift-helm-charts/charts)
+2. ❗️ Closed issue [#285](https://github.com/kabinspace/AstroVim/issues/285) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+3. 🗣 Commented on [#285](https://github.com/kabinspace/AstroVim/issues/285) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
 <!--END_SECTION:activity-->
 
 <!--
