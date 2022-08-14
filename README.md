@@ -30,8 +30,8 @@
 ![K8s captain](https://github.com/victor-timofei/k8s-captain-gopher/raw/master/linkedin-background.jpeg "K8s captain")
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3696](https://github.com/docker/cli/issues/3696) in [docker/cli](https://github.com/docker/cli)
-2. 💪 Opened PR [#461](https://github.com/openshift-helm-charts/charts/pull/461) in [openshift-helm-charts/charts](https://github.com/openshift-helm-charts/charts)
+1. 🗣 Commented on [#559](https://github.com/pixie-io/pixie/issues/559) in [pixie-io/pixie](https://github.com/pixie-io/pixie)
+2. 🗣 Commented on [#3696](https://github.com/docker/cli/issues/3696) in [docker/cli](https://github.com/docker/cli)
 3. ❗️ Closed issue [#285](https://github.com/kabinspace/AstroVim/issues/285) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
 <!--END_SECTION:activity-->
 
