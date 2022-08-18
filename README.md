@@ -31,8 +31,8 @@
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#559](https://github.com/pixie-io/pixie/issues/559) in [pixie-io/pixie](https://github.com/pixie-io/pixie)
-2. 🗣 Commented on [#3696](https://github.com/docker/cli/issues/3696) in [docker/cli](https://github.com/docker/cli)
-3. ❗️ Closed issue [#285](https://github.com/kabinspace/AstroVim/issues/285) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+2. 🗣 Commented on [#559](https://github.com/pixie-io/pixie/issues/559) in [pixie-io/pixie](https://github.com/pixie-io/pixie)
+3. 🗣 Commented on [#3696](https://github.com/docker/cli/issues/3696) in [docker/cli](https://github.com/docker/cli)
 <!--END_SECTION:activity-->
 
 <!--
