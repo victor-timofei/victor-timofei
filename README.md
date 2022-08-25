@@ -32,7 +32,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#528](https://github.com/pixie-io/pixie/issues/528) in [pixie-io/pixie](https://github.com/pixie-io/pixie)
 2. 🗣 Commented on [#528](https://github.com/pixie-io/pixie/issues/528) in [pixie-io/pixie](https://github.com/pixie-io/pixie)
-3. 🗣 Commented on [#574](https://github.com/pixie-io/pixie/issues/574) in [pixie-io/pixie](https://github.com/pixie-io/pixie)
+3. 🗣 Commented on [#528](https://github.com/pixie-io/pixie/issues/528) in [pixie-io/pixie](https://github.com/pixie-io/pixie)
 <!--END_SECTION:activity-->
 
 <!--
