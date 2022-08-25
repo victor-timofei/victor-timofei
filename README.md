@@ -9,6 +9,7 @@
 ![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=neovim&logoColor=white&labelColor=ffafbd&color=2193b0)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&labelColor=ffafbd&color=2193b0)
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&labelColor=ffafbd&color=2193b0)
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&labelColor=ffafbd&color=2193b0)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&labelColor=ffafbd&color=2193b0)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&labelColor=ffafbd&color=2193b0)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&labelColor=ffafbd&color=2193b0)
