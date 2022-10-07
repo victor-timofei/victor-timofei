@@ -31,7 +31,7 @@
 ![K8s captain](https://github.com/victor-timofei/k8s-captain-gopher/raw/master/linkedin-background.jpeg "K8s captain")
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#528](https://github.com/pixie-io/pixie/issues/528) in [pixie-io/pixie](https://github.com/pixie-io/pixie)
+1. ❗️ Opened issue [#1130](https://github.com/ogham/exa/issues/1130) in [ogham/exa](https://github.com/ogham/exa)
 2. 🗣 Commented on [#528](https://github.com/pixie-io/pixie/issues/528) in [pixie-io/pixie](https://github.com/pixie-io/pixie)
 3. 🗣 Commented on [#528](https://github.com/pixie-io/pixie/issues/528) in [pixie-io/pixie](https://github.com/pixie-io/pixie)
 <!--END_SECTION:activity-->
