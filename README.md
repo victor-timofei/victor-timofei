@@ -31,9 +31,9 @@
 ![K8s captain](https://github.com/victor-timofei/k8s-captain-gopher/raw/master/linkedin-background.jpeg "K8s captain")
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1130](https://github.com/ogham/exa/issues/1130) in [ogham/exa](https://github.com/ogham/exa)
-2. 🗣 Commented on [#45](https://github.com/killer-sh/cks-course-environment/issues/45) in [killer-sh/cks-course-environment](https://github.com/killer-sh/cks-course-environment)
-3. ❗️ Opened issue [#1130](https://github.com/ogham/exa/issues/1130) in [ogham/exa](https://github.com/ogham/exa)
+1. ❗️ Opened issue [#32](https://github.com/yeslogic/fontconfig-rs/issues/32) in [yeslogic/fontconfig-rs](https://github.com/yeslogic/fontconfig-rs)
+2. ❗️ Closed issue [#1130](https://github.com/ogham/exa/issues/1130) in [ogham/exa](https://github.com/ogham/exa)
+3. 🗣 Commented on [#45](https://github.com/killer-sh/cks-course-environment/issues/45) in [killer-sh/cks-course-environment](https://github.com/killer-sh/cks-course-environment)
 <!--END_SECTION:activity-->
 
 <!--
