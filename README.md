@@ -31,9 +31,9 @@
 ![K8s captain](https://github.com/victor-timofei/k8s-captain-gopher/raw/master/linkedin-background.jpeg "K8s captain")
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#32](https://github.com/yeslogic/fontconfig-rs/issues/32) in [yeslogic/fontconfig-rs](https://github.com/yeslogic/fontconfig-rs)
-2. 🗣 Commented on [#32](https://github.com/yeslogic/fontconfig-rs/issues/32) in [yeslogic/fontconfig-rs](https://github.com/yeslogic/fontconfig-rs)
-3. ❗️ Opened issue [#32](https://github.com/yeslogic/fontconfig-rs/issues/32) in [yeslogic/fontconfig-rs](https://github.com/yeslogic/fontconfig-rs)
+1. ❗️ Opened issue [#207003](https://github.com/NixOS/nixpkgs/issues/207003) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. ❗️ Closed issue [#32](https://github.com/yeslogic/fontconfig-rs/issues/32) in [yeslogic/fontconfig-rs](https://github.com/yeslogic/fontconfig-rs)
+3. 🗣 Commented on [#32](https://github.com/yeslogic/fontconfig-rs/issues/32) in [yeslogic/fontconfig-rs](https://github.com/yeslogic/fontconfig-rs)
 <!--END_SECTION:activity-->
 
 <!--
